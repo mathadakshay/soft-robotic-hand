@@ -37,7 +37,7 @@ The final prototype uses four Dynamixel XL330 motors.
 | Motor 0 | Thumb right/left movement |
 | Motor 1 | Index finger actuation |
 | Motor 2 | Middle finger actuation |
-| Motor 3 | Little finger actuation |
+| Motor 3 | Ring finger actuation |
 
 The exact motor mapping and motion parameters are documented in the `hardware/` directory.
 
